@@ -1,0 +1,30 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	42a4f7472a79416e9e2540f8c936a0a7	0a89a16ca62c401a9799f808b3acd280	2024-04-04 01:37:33	2024-04-04 01:37:33	2024-04-03 10:59:00	4f438bacbf1c4b56b6cf261f88473b61	Charity Account		Dues from Venmo that got deposited into charity account				n	125000/100	125000/100	1970-01-01 00:00:00
+C	42a4f7472a79416e9e2540f8c936a0a7	acfdd2a4ef4e439899ce414cdf70a0d3	2024-04-04 01:37:33	2024-04-04 01:37:33	2024-04-03 10:59:00	4f438bacbf1c4b56b6cf261f88473b61	Charity Account		Dues from Venmo that got deposited into charity account				n	-125000/100	-125000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+B	42a4f7472a79416e9e2540f8c936a0a7	0a89a16ca62c401a9799f808b3acd280	2024-04-04 01:38:04	2024-04-04 01:37:33	2024-04-03 10:59:00	4f438bacbf1c4b56b6cf261f88473b61	Charity Account		Dues from Venmo that got deposited into charity account				n	125000/100	125000/100	1970-01-01 00:00:00
+B	42a4f7472a79416e9e2540f8c936a0a7	acfdd2a4ef4e439899ce414cdf70a0d3	2024-04-04 01:38:04	2024-04-04 01:37:33	2024-04-03 10:59:00	4f438bacbf1c4b56b6cf261f88473b61	Charity Account		Dues from Venmo that got deposited into charity account				n	-125000/100	-125000/100	1970-01-01 00:00:00
+===== END
+===== START
+D	42a4f7472a79416e9e2540f8c936a0a7	0a89a16ca62c401a9799f808b3acd280	2024-04-04 01:38:09	2024-04-04 01:37:33	2024-04-03 10:59:00	4f438bacbf1c4b56b6cf261f88473b61	Charity Account		Dues from Venmo transferd that got deposited into charity account				n	0/100	0/100	1970-01-01 00:00:00
+D	42a4f7472a79416e9e2540f8c936a0a7	acfdd2a4ef4e439899ce414cdf70a0d3	2024-04-04 01:38:09	2024-04-04 01:37:33	2024-04-03 10:59:00	707544b2a85c4a6381bf9ac6080db77f	Operations Account		Dues from Venmo transferd that got deposited into charity account				n	0/100	0/100	1970-01-01 00:00:00
+===== END
+===== START
+C	146f46313fd14a898026f262ec866f15	c6166972e1074c278f384e0c445739dc	2024-04-04 01:40:15	2024-04-04 01:40:15	2024-04-03 10:59:00	4f438bacbf1c4b56b6cf261f88473b61	Charity Account		Dues that got put into the charity account from venmo, transfered to right place				n	-125000/100	-125000/100	1970-01-01 00:00:00
+C	146f46313fd14a898026f262ec866f15	b3d34ca3add54d23a744e0b8bf482e5b	2024-04-04 01:40:15	2024-04-04 01:40:15	2024-04-03 10:59:00	2c56b96f6cbe43a6a315b599e0dac3fa	Imbalance-USD		Dues that got put into the charity account from venmo, transfered to right place				n	125000/100	125000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+B	146f46313fd14a898026f262ec866f15	b3d34ca3add54d23a744e0b8bf482e5b	2024-04-04 01:40:45	2024-04-04 01:40:15	2024-04-03 10:59:00	2c56b96f6cbe43a6a315b599e0dac3fa	Imbalance-USD		Dues that got put into the charity account from venmo, transfered to right place				n	125000/100	125000/100	1970-01-01 00:00:00
+B	146f46313fd14a898026f262ec866f15	c6166972e1074c278f384e0c445739dc	2024-04-04 01:40:45	2024-04-04 01:40:15	2024-04-03 10:59:00	4f438bacbf1c4b56b6cf261f88473b61	Charity Account		Dues that got put into the charity account from venmo, transfered to right place				n	-125000/100	-125000/100	1970-01-01 00:00:00
+===== END
+===== START
+C	146f46313fd14a898026f262ec866f15	b3d34ca3add54d23a744e0b8bf482e5b	2024-04-04 01:40:45	2024-04-04 01:40:15	2024-04-03 10:59:00	707544b2a85c4a6381bf9ac6080db77f	Operations Account		Dues that got put into the charity account from venmo, transfered to right place				n	125000/100	125000/100	1970-01-01 00:00:00
+C	146f46313fd14a898026f262ec866f15	c6166972e1074c278f384e0c445739dc	2024-04-04 01:40:45	2024-04-04 01:40:15	2024-04-03 10:59:00	4f438bacbf1c4b56b6cf261f88473b61	Charity Account		Dues that got put into the charity account from venmo, transfered to right place				n	-125000/100	-125000/100	1970-01-01 00:00:00
+===== END
